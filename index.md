@@ -1,6 +1,6 @@
-# Добро пожаловать
-
-Мы пока сами не решили что именно будем здесь размешать, но надеемся что решим в ближайшем будущем.
-
-### Забыл представиться, мы это 
-[Гимадиев Рустам](https://vk.com/gimadiev_kzn) и [Гимадиева Регина](https://vk.com/id12752582)
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
